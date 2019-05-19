@@ -5,9 +5,10 @@ Este  repositório é fruto do programa de bolsa ensino o programa que é susten
 O objetivo desse  projeto é a criação de uma apostila voltada para engenheiros  afim de refinar a capacidade de processamento e visualização obtidas em trabalhos acadêmicos, pesquisas de iniciação cientifica, projetos de extensão e  todas as outras modalidades que necessitarem de interpretação de uma situação baseada em dados.
 
 ### Sumário
-<ul>
-    <li><a href='/Primeiro Capítulo/Primeiro capítulo .ipynb'>Primeiro Capítulo</a></li>
-</ul>
+<ol>
+    <li><a href='/Primeiro Capítulo/Primeiro capítulo .ipynb'>  Capítulo - Operações Matemáticas e comandos da IDE </a></li>
+    <li><a href='/Segundo Capítulo/Segundo capítulo .ipynb'>  Capítulo - Trabalhando com variaveis  </a></li>
+</ol>
 Realizado por : Victor Furim Poldauf
 
 Orientado por : Prof. Dr.  João Alvez Pacheco
