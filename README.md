@@ -7,7 +7,7 @@ O objetivo desse  projeto é a criação de uma apostila voltada para engenheiro
 ### Sumário
 <ol>
     <li><a href='/Primeiro Capítulo/Primeiro capítulo .ipynb'>  Capítulo - Operações Matemáticas e comandos da IDE </a></li>
-    <li><a href='/Segundo Capítulo/Segundo capítulo .ipynb'>  Capítulo - Trabalhando com variaveis  </a></li>
+    <li><a href='/Segundo Capítulo/Segundo capítulo.ipynb'>  Capítulo - Trabalhando com variaveis  </a></li>
 </ol>
 Realizado por : Victor Furim Poldauf
 
